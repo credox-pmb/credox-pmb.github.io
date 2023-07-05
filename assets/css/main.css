@@ -383,6 +383,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  text-align: center;
 }
 footer.fixed-bottom .container {
   color: var(--global-footer-text-color);
@@ -402,6 +403,7 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  text-align: center;
 }
 
 .cv {
