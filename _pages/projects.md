@@ -1,15 +1,19 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Team
+permalink: /team/
+description:
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+display_categories:
 horizontal: false
+nav_order: 2
 ---
 
-<!-- pages/projects.md -->
+Membership of CredOx is open to any member of Pembroke’s Governing Body but may also be extended to any member of the College, University, or any external organization that might, in the view of the Director, assist the research work of the Centre. 
+
+&nbsp;
+
+<!-- pages/team.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
